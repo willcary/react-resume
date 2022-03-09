@@ -73,42 +73,42 @@ function App() {
           <h2 className="accent-gradient">Certificates</h2>
           <div className="cert-card">
             <div className="cert-card-content">
-              <h3><a href={gitImage} target="_blank">The Ultimate Git Course</a></h3>
+              <h3><a href={gitImage} target="_blank" rel="noreferrer">The Ultimate Git Course</a></h3>
               <p><em>Code with Mosh</em></p>
             </div>
             <h4>March 2022</h4>
           </div>
           <div className="cert-card">
             <div className="cert-card-content">
-              <h3><a href="https://scrimba.com/certificate/uyeqdyTQ/greact" target="_blank">The React Bootcamp</a></h3>
+              <h3><a href="https://scrimba.com/certificate/uyeqdyTQ/greact" target="_blank" rel="noreferrer">The React Bootcamp</a></h3>
               <p><em>Scrimba</em></p>
             </div>
             <h4>September 2021</h4>
           </div>
           <div className="cert-card">
             <div className="cert-card-content">
-              <h3><a href="https://www.hackerrank.com/certificates/65b269a5e228" target="_blank">CSS</a></h3>
+              <h3><a href="https://www.hackerrank.com/certificates/65b269a5e228" target="_blank" rel="noreferrer">CSS</a></h3>
               <p><em>HackerRank</em></p>
             </div>
             <h4>September 2021</h4>
           </div>
           <div className="cert-card">
             <div className="cert-card-content">
-              <h3><a href="https://scrimba.com/certificate/uyeqdyTQ/gresponsive" target="_blank">The Responsive Web Design Bootcamp</a></h3>
+              <h3><a href="https://scrimba.com/certificate/uyeqdyTQ/gresponsive" target="_blank" rel="noreferrer">The Responsive Web Design Bootcamp</a></h3>
               <p><em>Scrimba</em></p>
             </div>
             <h4>August 2021</h4>
           </div>
           <div className="cert-card">
             <div className="cert-card-content">
-              <h3><a href="https://scrimba.com/certificate/uyeqdyTQ/gjavascript" target="_blank">The JavaScript Bootcamp</a></h3>
+              <h3><a href="https://scrimba.com/certificate/uyeqdyTQ/gjavascript" target="_blank" rel="noreferrer">The JavaScript Bootcamp</a></h3>
               <p><em>Scrimba</em></p>
             </div>
             <h4>July 2020</h4>
           </div>
           <div className="cert-card">
             <div className="cert-card-content">
-              <h3><a href="https://freecodecamp.org/certification/willcary/javascript-algorithms-and-data-structures" target="_blank">JavaScript Algorithms and Data Structures</a></h3>
+              <h3><a href="https://freecodecamp.org/certification/willcary/javascript-algorithms-and-data-structures" target="_blank" rel="noreferrer">JavaScript Algorithms and Data Structures</a></h3>
               <p><em>freeCodeCamp</em></p>
             </div>
             <h4>January 2019</h4>
@@ -116,7 +116,7 @@ function App() {
 
           <div className="cert-card">
             <div className="cert-card-content">
-              <h3><a href="https://freecodecamp.org/certification/willcary/responsive-web-design" target="_blank">Responsive Web Design</a></h3>
+              <h3><a href="https://freecodecamp.org/certification/willcary/responsive-web-design" target="_blank" rel="noreferrer">Responsive Web Design</a></h3>
               <p><em>freeCodeCamp</em></p>
             </div>
             <h4>October 2018</h4>
@@ -146,7 +146,7 @@ function App() {
             <h2 className="accent-gradient">Contact</h2>
             <div className="contact-info">
               <p><strong>Email</strong></p>
-              <p><a href="mailto:w.a.c.ary@gmail.com" target="_blank">w.a.c.ary@gmail.com</a></p>
+              <p><a href="mailto:w.a.c.ary@gmail.com" target="_blank" rel="noreferrer">w.a.c.ary@gmail.com</a></p>
             </div>
             <div className="contact-info">
               <p><strong>Phone</strong></p>
@@ -158,11 +158,11 @@ function App() {
             </div>
             <div className="contact-info">
               <p><strong>Linkedin</strong></p>
-              <p className="link-wrap"><a href="https://www.linkedin.com/in/william-cary/" target="_blank">Click for Profile</a></p>
+              <p className="link-wrap"><a href="https://www.linkedin.com/in/william-cary/" target="_blank" rel="noreferrer">Click for Profile</a></p>
             </div>
             <div className="contact-info">
               <p><strong>Website</strong></p>
-              <p className="link-wrap"><a href="https://www.williamacary.com/" target="_blank">www.williamacary.com</a></p>
+              <p className="link-wrap"><a href="https://www.williamacary.com/" target="_blank" rel="noreferrer">www.williamacary.com</a></p>
             </div>
           </section>
 
