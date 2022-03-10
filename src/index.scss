@@ -94,11 +94,13 @@ main {
 
 .main-container {
   @include container;
+  padding-bottom: 0;
 }
 
 .aside-container {
   @include container($white);
-  margin-bottom: 4em;
+  margin-bottom: 1em;
+  padding-top: 0;
 }
 
 /*========= Accents and touch ups ========*/
@@ -182,10 +184,12 @@ main {
 
   .main-container {
     grid-column: 2 / 4;
+    padding-bottom: 1rem;
   }
 
   .aside-container {
     grid-column: 4 / span 1;
+    padding-top: 1rem;
   }
 
   .contact {
