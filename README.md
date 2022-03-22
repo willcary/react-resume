@@ -1,6 +1,6 @@
-# Will Cary | Responsive Resume
+# Responsive Resume - Will Cary
 
-Will Cary's Resume, built to be a responsive site with React and SCSS. Uses SCSS mixins for the design containers.
+Will Cary's Resume, built to be a responsive site with React and SCSS. Uses SCSS mixins for the design containers as well as SCSS for variables and nesting.
 
 View live [here](https://williamacary-resume.netlify.app/).
 
