@@ -1,5 +1,6 @@
 import React from 'react'
 import Work from './Work'
+import OpenSource from './OpenSource'
 import Education from './Education'
 import Certificates from './Certificates'
 
@@ -12,6 +13,7 @@ export default function MainContainer() {
         science and education.
       </p>
       <Work />
+      <OpenSource />
       <Education />
       <Certificates />
     </div>
