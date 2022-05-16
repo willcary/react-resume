@@ -24,6 +24,10 @@ export default function Work() {
             Continue to update the website with the latest products and
             developments.
           </li>
+          <li>
+            Currently developing software to integrate with loop control
+            systems.
+          </li>
         </ul>
         <p>
           <em>Innovative Omics - Sarasota, FL</em>
@@ -34,7 +38,7 @@ export default function Work() {
             standards.
           </li>
           <li>Redesigned and improved responsive layouts for select pages.</li>
-          <li>Continue to edit pages and add pages as needed.</li>
+          <li>Continue to edit, update, and add pages as needed.</li>
         </ul>
       </div>
       <div className='card'>

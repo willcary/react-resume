@@ -24,7 +24,8 @@ export default function OpenSource() {
         <ul>
           <li>
             Develop and refactor react components, update documentation, fix
-            bugs, and complete code reviews.
+            bugs, and complete code reviews for the Driving Park Neighborhood
+            community portal.
           </li>
         </ul>
       </div>
