@@ -23,7 +23,7 @@ export default function OpenSource() {
         </p>
         <ul>
           <li>
-            Develop and refactor react components using React,Typescript, React
+            Develop and refactor react components using React, Typescript, React
             Testing Library, Storybook, and Styled-Components.
           </li>
           <li>
