@@ -37,8 +37,15 @@ export default function Work() {
             Updated WordPress site to better comply with WCAG accessibility
             standards.
           </li>
+          <li>
+            Implemented popup forms to collect user information and create
+            business leads.
+          </li>
           <li>Redesigned and improved responsive layouts for select pages.</li>
-          <li>Continue to edit, update, and add pages as needed.</li>
+          <li>
+            Continue to edit, update, and add pages for new software and
+            datasets.
+          </li>
         </ul>
       </div>
       <div className='card'>

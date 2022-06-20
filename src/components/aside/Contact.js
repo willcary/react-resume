@@ -38,7 +38,7 @@ export default function Contact() {
         <p>
           <strong>Address</strong>
         </p>
-        <p>Carrboro, NC, 27510</p>
+        <p>Columbus, OH 43214</p>
       </div>
       <div className='contact-info'>
         <p>
