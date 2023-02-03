@@ -14,19 +14,19 @@ export default function Work() {
         </p>
         <ul>
           <li>
+            Currently developing software to integrate with loop control
+            systems.
+          </li>
+          <li>
             Developed a modern, mobile responsive website for{' '}
             <a href='https://www.coiltek.com/'>Coiltek</a> using HTML, CSS, and
             Bootstrap. Recently updated this site to better meet accessibility
             standards and improve performance by minimizing image sizes and
-            simplifying code.
+            refactoring code.
           </li>
           <li>
             Continue to update the website with the latest products and
             developments.
-          </li>
-          <li>
-            Currently developing software to integrate with loop control
-            systems.
           </li>
         </ul>
         <p>

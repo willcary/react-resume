@@ -8,9 +8,9 @@ export default function MainContainer() {
   return (
     <div className='main-container'>
       <p>
-        Motivated front-end developer with experience designing and developing
-        responsive websites and applications, pivoting from a background in
-        science and education.
+        Motivated front-end developer pivoting from a background in science and
+        education with experience designing and developing responsive websites
+        and web applications.
       </p>
       <Work />
       <OpenSource />
