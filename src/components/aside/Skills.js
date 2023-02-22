@@ -13,11 +13,12 @@ export default function Skills() {
         <div className='skill'>Bootstrap</div>
         <div className='skill'>SCSS</div>
         <div className='skill'>Git</div>
-        <div className='skill'>HTML5</div>
-        <div className='skill'>ES6</div>
+        <div className='skill'>TypeScript</div>
         <div className='skill'>PostgreSQL</div>
         <div className='skill'>Node</div>
         <div className='skill'>Express</div>
+        <div className='skill'>ES6</div>
+        <div className='skill'>HTML5</div>
       </div>
     </section>
   )
