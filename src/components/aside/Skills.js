@@ -15,6 +15,9 @@ export default function Skills() {
         <div className='skill'>Git</div>
         <div className='skill'>HTML5</div>
         <div className='skill'>ES6</div>
+        <div className='skill'>PostgreSQL</div>
+        <div className='skill'>Node</div>
+        <div className='skill'>Express</div>
       </div>
     </section>
   )
